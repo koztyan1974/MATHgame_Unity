@@ -7,5 +7,10 @@ C# (C-Sharp):<img width="150" height="150" alt="ic8-логотип-c-sharp-500" 
 UniRx: <img width="150" height="150" alt="лого UniRx" src="https://assetstorev1-prd-cdn.unity3d.com/key-image/16fd891f-db57-4a45-8ee9-164324cc50bb.jpg" />
 
 
-Скриншоты:
+Скриншоты игры:
 <img width="445" height="377" alt="Снимок экрана 2026-04-28 124650" src="https://github.com/user-attachments/assets/18e6f602-f94b-4f82-a89e-45fba838f0dd" />
+
+Инструкция по запуску на Windows:
+- Перейдите в раздел Releases на этом GitHub.
+- Скачайте архив для вашей операционной системы.
+- Распакуйте архив и запустите файл MathGame.exe
