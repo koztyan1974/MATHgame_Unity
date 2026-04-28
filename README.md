@@ -2,4 +2,4 @@
 Зачем: Проект решает проблему низкой мотивации школьников к изучению математики. Вместо скучных примеров в тетради, ученик попадает в интерактивную среду, где знания становятся ключом к продвижению.
 Для кого: Основная аудитория — учащиеся 5–9 классов. Игра может использоваться как тренажер для самостоятельной подготовки или как дополнительный интерактивный материал на уроках математики.
 
-C# (C-Sharp):<img width="150" height="500" alt="ic8-логотип-c-sharp-500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hB7pplANIEUnAR9CCdk0yYXa1sdMLOAAQA&s" />
+C# (C-Sharp):<img width="150" height="150" alt="ic8-логотип-c-sharp-500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hB7pplANIEUnAR9CCdk0yYXa1sdMLOAAQA&s" />
