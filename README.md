@@ -9,6 +9,8 @@ UniRx: <img width="150" height="150" alt="лого UniRx" src="https://assetstor
 
 Скриншоты игры:
 <img width="1905" height="1001" alt="image" src="https://github.com/user-attachments/assets/0c278590-0c76-49e7-a133-836439a757eb" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0cd97992-3895-4c08-af48-385f0899b68e" />
+
 
 
 Инструкция по запуску на Windows:
