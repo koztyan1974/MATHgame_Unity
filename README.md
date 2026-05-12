@@ -8,8 +8,8 @@ UniRx: <img width="150" height="150" alt="лого UniRx" src="https://assetstor
 
 
 Скриншоты игры:
-<img width="445" height="377" alt="Снимок экрана 2026-04-28 124650" src="<img width="1905" height="1001" alt="image" src="https://github.com/user-attachments/assets/80599fd2-7ea9-4f75-95b3-0ca383e8d02d" />
-" />
+<img width="1905" height="1001" alt="image" src="https://github.com/user-attachments/assets/0c278590-0c76-49e7-a133-836439a757eb" />
+
 
 Инструкция по запуску на Windows:
 - Перейдите в раздел Releases на этом GitHub.
